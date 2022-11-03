@@ -1,0 +1,45 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify
+  }
+  h1 { font-size: 36px;
+    color: white;
+    background-color: skyblue;
+     }
+  
+  .profile header {
+  text-align: center;
+    font-size: 14px;
+  }
+  
+  span {
+    p :: first-letter {
+    font-size: 28px;
+    font-weight: bold;
+    color: yellowgreen;
+  }
+    font-size: 16px;
+    color:navy;
+  }
+  
+  h2 { font-weight: bold;
+      color: royalblue;
+      text-shadow: 4px 4px 3px skyblue;}
+  
+  a:link {
+  color: royalblue;
+   }
+  a:visited {
+  color: yellowgreen
+  }
+  
+  footer {
+  padding: 20px;
+  color: white;
+  background-color: skyblue;
+  text-align: center;
+  font-weight: bold;
+  }
+  
